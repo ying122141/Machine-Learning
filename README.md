@@ -1,7 +1,7 @@
 # Machine Learning
 
 This is one of the ML projects I have finished. 
-The sample data are listed at above section. 
+The sample data are listed at above section.
 
 
 Google colab link: https://colab.research.google.com/drive/1tiOPorBVebFo5FU4AUKoy01r6Yh8EIQI?usp=sharing
